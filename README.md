@@ -1,9 +1,10 @@
 # JSrepo
-# Updated readme1 text 1
+# Updated readme text 2
 
 #author:  JSirikool
 #date 2/7/2017
+#date 2/15/2017
 
-practice 1
+practice 2
 
 
